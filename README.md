@@ -40,7 +40,7 @@
 ## 🌐 Connect With Me
 
 - LinkedIn:  
-  https://www.linkedin.com/in/mathakamudi-poojitha-58386b322
+  https:// linkedin.com/in/mathakamudi-poojitha-58386b322
 
 - GitHub:  
   https://github.com/mpoojapooji8143-eng
